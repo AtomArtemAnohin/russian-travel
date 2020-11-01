@@ -1,0 +1,10 @@
+@import url(../vendor/normalize.css);
+@import url(../bloсks/page/page.css);
+
+@import url(../bloсks/header/header.css);
+@import url(../bloсks/logo/logo.css);
+@import url(../bloсks/logo/_place-header/logo_place-header.css);
+
+@import url(../bloсks/header/__place-lang-link/header__place-lang-link.css);
+@import url(../bloсks/header/__lang-link/header__lang-link.css);
+@import url(../bloсks/header/__links/header__links.css);

@@ -1,0 +1,10 @@
+.header__lang-link {
+margin-bottom: 6px;    
+margin-right: 47px;
+margin-left: 18px;
+margin-top: 18px;
+}
+.header__lang-link:last-of-type {
+    margin-right: 0px;
+
+}
