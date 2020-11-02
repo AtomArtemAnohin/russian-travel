@@ -1,11 +1,10 @@
 .header {
     border: 2px solid red;
-    width: 1184px;
-    height: 52px;
+    width: 90%;
     display: flex;
     justify-content: space-between;
-    margin-top: 28px;
     margin-left: 48px;
     margin-right: 48px;
     margin-bottom: 0px;
+    margin-top: 28px;
 }
