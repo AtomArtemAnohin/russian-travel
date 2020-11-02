@@ -16,3 +16,10 @@
 @import url(../bloсks/lead/__image/lead__image.css);
 @import url(../bloсks/lead/__caption/lead__caption.css);
 
+@import url(../bloсks/intro/intro.css);
+@import url(../bloсks/intro/__title/intro__title.css);
+@import url(../bloсks/intro/__text/intro__text.css);
+@import url(../bloсks/intro/__list/intro__list.css);
+
+@import url(../bloсks/photo__grid/photo__grid.css);
+@import url(../bloсks/photo__grid/photo-grid__item/photo-grid__item.css);
