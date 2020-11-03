@@ -1,10 +1,12 @@
 .places {
-  margin-bottom: 0px;
+margin-bottom: 0px;
 margin-left: 148px;
 margin-right: 148px;
 margin-top:  80px;
 border: 2px solid red;
-width: 984px;
+max-width: 984px;
+width: 100%;
+
 display: grid;
 gap: 40px;
 grid-template-columns: fit-content(460px) fit-content(484px) ;

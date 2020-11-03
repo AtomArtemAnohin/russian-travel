@@ -1,4 +1,6 @@
 .lead__title {
+    font-family: Inter;
+    font-weight: 900;
     font-size: 96px;
     line-height: 100px;
     font-style: normal;
@@ -9,5 +11,9 @@
     max-width: 720px;
     max-height: 200px;
     border: 2px solid red;
+    color: #FFFFFF;
 
 }
+
+
+

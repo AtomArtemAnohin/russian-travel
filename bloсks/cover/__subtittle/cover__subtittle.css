@@ -1,17 +1,15 @@
 .cover__subtittle {
-    position: absolute;
-    z-index: 1;
-    font-family: Inter;
+font-family: Inter;
 font-style: normal;
 font-weight: normal;
 font-size: 18px;
 line-height: 22px;
 text-align: center;
 color: #FFFFFF;
-
-margin-bottom: 245px;
-margin-left: 412px;
-margin-top: 429px;
-margin-right: 412px;
+margin-bottom: 0px;
+margin-left: 0px;
+margin-top: 0px;
+margin-right: 0px;
 border: 2px solid red;
+grid-area: 1/1/2/2;
 }

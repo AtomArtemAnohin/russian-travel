@@ -1,4 +1,4 @@
-.pace__link {
+.place__link {
     margin-top: 12px;
     margin-bottom: 0px;
     margin-left: 0px;
@@ -13,4 +13,8 @@ line-height: 22px;
 text-decoration-line: underline;
 
 color: white;
+}
+.place__link:hover {
+    opacity: 0.8;
+
 }

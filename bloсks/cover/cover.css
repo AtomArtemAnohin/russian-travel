@@ -6,7 +6,9 @@ margin-left: 48px;
 margin-right: 48px;
 margin-bottom: 0px;
 margin-top: 92px;
-
-position: relative;
+width: 100%;
+display: grid;
+grid-template-columns: auto;
+grid-template-rows: auto;
 
 }
