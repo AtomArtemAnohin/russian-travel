@@ -37,3 +37,8 @@
 @import url(../bloсks/cover/__subtittle/cover__subtittle.css);
 @import url(../bloсks/cover/__overlay/cover__overlay.css);
 @import url(../bloсks/cover/__background/cover__background.css);
+
+@import url(../bloсks/footer/footer.css);
+@import url(../bloсks/footer/__link/footer__link.css);
+@import url(../bloсks/footer/__copyright/footer__copyright.css);
+
