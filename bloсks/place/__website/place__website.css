@@ -1,0 +1,8 @@
+.place__website{
+  border: 2px solid red;
+  flex-direction: column;
+  justify-content: flex-end;
+  display: flex;
+ 
+
+  }
