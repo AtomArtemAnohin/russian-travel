@@ -4,12 +4,12 @@ font-style: normal;
 font-weight: 900;
 font-size: 72px;
 line-height: 76px;
-text-align: center;
 color: #FFFFFF;
+
 margin-bottom: 0px;
 margin-left: 0px;
 margin-top: 0px;
 margin-right: 0px;
 border: 2px solid red;
-grid-area: 1/1/2/2;
+text-align: center;
 }
