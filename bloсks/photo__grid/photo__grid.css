@@ -7,10 +7,35 @@
     border: 2px solid red;
     display: grid;
     gap: 16px;
-    grid-template-columns: repeat(4, minmax(240px, 1fr));
+    grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
     grid-template-rows: repeat(3, 1fr);   
-    max-width: 1184px;
-    width: 100%;
-
-
+}
+@media (max-width: 1024px){
+    .photo__grid {
+        margin-left: 24px;
+        margin-right: 24px; 
+        gap: 14px;
+ }
+}
+@media (max-width:768px){
+    .photo__grid {
+        margin-left: 24px;
+        margin-right: 24px; 
+        gap: 16px;
+ }
+}
+@media (max-width:640px){
+    .photo__grid {
+        margin-left: 24px;
+        margin-right: 24px; 
+        gap: 16px;
+ }
+}
+@media (max-width:320px){
+    .photo__grid {
+        gap: 12px;
+        margin-left: 16px;
+        margin-right: 16px; 
+       
+ }
 }

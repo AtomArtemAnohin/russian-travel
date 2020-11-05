@@ -2,15 +2,31 @@
     font-family: Inter;
     font-style: normal;
     font-weight: normal;
-    margin-left: 172px;
-    margin-right: 172px;
+    margin-left: auto;
+    margin-right: auto;
     margin-top: 32px;
     margin-bottom: 0px;
+
     max-width: 640px;
     font-size: 30px;
     line-height: 36px;
     text-align: center;
-    border: 2px solid red;
     color: #FFFFFF; 
 
 }
+@media (max-width:555px){
+    .lead__subtittle {
+        font-size: 26px;
+        line-height: 26px;
+ }
+ @media (max-width:477px){
+    .lead__subtittle {
+        font-size: 18px;
+        line-height: 23px;
+ }
+ @media (max-width:320px){
+    .lead__subtittle {
+        font-size: 16px;
+        line-height: 20px;
+ }
+
