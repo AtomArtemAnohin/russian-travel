@@ -7,8 +7,24 @@ line-height: 163%;
 color: #FFFFFF;
 border: 2px solid red;
 
-margin-top: 0px;
+margin-top: 26px;
 margin-bottom: 0px;
 margin-left: 0px;
 margin-right: 0px;
 }
+.place__pharagraph:first-of-type {
+    margin-top: 0px;
+}
+
+@media (max-width:1024px){
+    .places {
+margin-top: 27px;    
+ }
+ @media (max-width:768px){
+    .places {
+margin-top: 26px;    
+ }
+ @media (max-width:768px){
+    .places {
+margin-top: 25px;    
+ }

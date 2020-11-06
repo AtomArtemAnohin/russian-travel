@@ -4,13 +4,18 @@ font-style: normal;
 font-weight: normal;
 font-size: 18px;
 line-height: 22px;
-color: #FFFFFF;
-
-margin-bottom: 0px;
-margin-left: 0px;
-margin-top: 0px;
-margin-right: 0px;
-border: 2px solid red;
 text-align: center;
-z-index: 2;
+color: #FFFFFF;
+z-index: 1;
+border: 2px solid red;
 }
+@media (max-width:532px){
+    .cover__subtittle {
+        font-size: 14px;
+        line-height: 16px;
+ }
+@media (max-width:320px){
+    .cover__subtittle {
+        font-size: 14px;
+        line-height: 16px;
+ }

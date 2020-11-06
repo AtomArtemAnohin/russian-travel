@@ -5,12 +5,19 @@ font-weight: 900;
 font-size: 72px;
 line-height: 76px;
 color: #FFFFFF;
-
-margin-bottom: 0px;
-margin-left: 0px;
-margin-top: 0px;
-margin-right: 0px;
-border: 2px solid red;
 text-align: center;
-z-index: 2;
+z-index: 1;
+
+border: 2px solid red;
+
 }
+@media (max-width:532px){
+    .cover__title {
+        font-size: 32px;
+    line-height: 35px;
+ }
+@media (max-width:320px){
+    .cover__title {
+        font-size: 32px;
+    line-height: 35px;
+ }
