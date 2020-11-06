@@ -10,7 +10,7 @@
 @import url(../bloсks/header/__place-lang-link/header__place-lang-link.css);
 @import url(../bloсks/header/__lang-link/header__lang-link.css);
 @import url(../bloсks/header/__links/header__links.css);
-@import url(../bloсks/header/__link_active/header__link_active.css);
+@import url(../bloсks/header/__links/_active/header__link_active.css);
 
 @import url(../bloсks/lead/lead.css);
 @import url(../bloсks/lead/__title/lead__title.css);
@@ -23,8 +23,8 @@
 @import url(../bloсks/intro/__text/intro__text.css);
 @import url(../bloсks/intro/__list/intro__list.css);
 
-@import url(../bloсks/photo__grid/photo__grid.css);
-@import url(../bloсks/photo__grid/photo-grid__item/photo-grid__item.css);
+@import url(../bloсks/photo-grid/photo-grid.css);
+@import url(../bloсks/photo-grid/photo-grid__item/photo-grid__item.css);
 
 @import url(../bloсks/places/places.css);
 @import url(../bloсks/place/place.css);
