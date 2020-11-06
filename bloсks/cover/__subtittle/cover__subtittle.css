@@ -7,14 +7,18 @@ line-height: 22px;
 text-align: center;
 color: #FFFFFF;
 z-index: 1;
+max-width: 360px;
+max-height: 66px;
 }
 @media (max-width:532px){
     .cover__subtittle {
         font-size: 14px;
         line-height: 16px;
  }
+}
 @media (max-width:320px){
     .cover__subtittle {
         font-size: 14px;
         line-height: 16px;
  }
+}

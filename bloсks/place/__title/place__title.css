@@ -15,17 +15,19 @@
     .place__title {
       margin-bottom: 16px;    
  }
-
+  }
  @media (max-width:900px){
   .place__title {
       font-size: 55px;
       line-height: 66px;  
 }
+ }
 @media (max-width:768px){
   .place__title {
       margin-bottom: 20px;   
       font-size: 42px;
       line-height: 46px;  
+}
 }
 @media (max-width:320px){
   .place__title {
@@ -34,4 +36,5 @@
       margin-right: 16px;  
       font-size: 32px;
       line-height: 35px;  
+}
 }

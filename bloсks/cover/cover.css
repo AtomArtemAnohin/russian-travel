@@ -15,14 +15,16 @@
     height: 0px;
     padding-top: calc(740 / 1184 * 100%);
 }
-@media (max-width:1280px){
-    .cover {
-        margin-left: 47px;
-        margin-right: 47px;
- }
-@media (max-width:1024px){
-    .cover {
-        margin-left: 0px;
-        margin-right: 0px;
- }
 
+@media (max-width:1280px){
+.cover {
+    margin-left: 47px;
+    margin-right: 47px;
+ }
+}
+@media (max-width:1024px){
+.cover {
+    margin-left: 0px;
+    margin-right: 0px;
+ }
+}

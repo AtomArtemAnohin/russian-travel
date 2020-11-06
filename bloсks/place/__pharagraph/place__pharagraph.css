@@ -14,22 +14,26 @@ margin-right: 0px;
 .place__pharagraph:first-of-type {
     margin-top: 0px;
 }
-
+}
 @media (max-width:1024px){
     .place__pharagraph {
 margin-top: 27px;    
  }
+}
  @media (max-width:768px){
     .place__pharagraph {
 margin-top: 26px;    
  }
+}
  @media (max-width:768px){
     .place__pharagraph {
 margin-top: 25px;    
  }
+}
  @media (max-width:362px){
     .place__pharagraph {
 margin-top: 25px;
 margin-left: 16px;
 margin-right: 16px;    
  }
+}
