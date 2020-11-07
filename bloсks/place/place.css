@@ -48,8 +48,6 @@
   @media (max-width:555px){
     .place {
       margin-top: 49px;
-      margin-left: 13px;
-      margin-right: 13px;
       display: flex;
       flex-direction: column;
       margin-left: 16px;
