@@ -11,18 +11,13 @@ margin-bottom: 0px;
 margin-left: auto;
 margin-right: auto;
 }
-@media (max-width:421px){
+@media (max-width:555px){
     .intro__title {
         font-size: 32px;
         line-height: 35px;
  }
 }
-@media (max-width:320px){
-    .intro__title {
-        font-size: 32px;
-        line-height: 35px;
- }
-}
+
 
 
 

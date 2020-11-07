@@ -8,7 +8,6 @@ color: #FFFFFF;
 text-align: center;
 z-index: 1;
 max-width: 560px;
-max-height: 152px;
 }
 @media (max-width:532px){
     .cover__title {
@@ -18,7 +17,5 @@ max-height: 152px;
 }
 @media (max-width:320px){
     .cover__title {
-        font-size: 32px;
-    line-height: 35px;
  }
 }

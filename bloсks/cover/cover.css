@@ -1,6 +1,6 @@
 .cover {
-    margin-left: auto;
-    margin-right: auto;
+    margin-left: 47px;
+    margin-right: 47px;
     margin-bottom: 0px;
     margin-top: 92px;
     
@@ -18,8 +18,7 @@
 
 @media (max-width:1280px){
 .cover {
-    margin-left: 47px;
-    margin-right: 47px;
+
  }
 }
 @media (max-width:1024px){

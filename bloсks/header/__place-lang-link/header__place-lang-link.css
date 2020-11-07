@@ -3,7 +3,12 @@
     align-items: flex-end;
     list-style-type: none;
     margin-left: auto;
-    margin-top: 0%;
     margin-bottom: 0%;
     padding-left: 0px;
+}
+@media (max-width:320px){
+    .header__place-lang-link {
+       
+        margin-right: 0px;
+ }
 }

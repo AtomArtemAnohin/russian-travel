@@ -1,4 +1,4 @@
-.header__links {
+.header__link {
     text-decoration: none;
     color: white;
     font-family: Inter;
@@ -8,6 +8,12 @@
     line-height: 28px;
 }
 
+@media (max-width:320px){
+    .header__link {
+        font-size: 18px;
+        line-height: 20px;
+ }
+}
 
 
 

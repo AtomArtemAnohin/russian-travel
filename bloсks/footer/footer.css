@@ -1,24 +1,24 @@
 .footer {
+    display: flex;
+    align-items: center;
     max-width: 1184px;
-    max-height: 18px;
+    justify-content: space-between;
     margin-top: 92px;
-    margin-bottom: 24px;
     margin-left: 48px;
     margin-right: 48px;
-    display: flex;
 }
-@media (max-width:670px){
+@media (max-width:768px){
+    .footer {
+        margin-top: 88px;
+        margin-left: 24px;
+        margin-right: 24px;        
+ }
+}
+@media (max-width: 650px) {
     .footer {
         flex-direction: column;
         margin-top: 64px;
         margin-left: 16px;
- }
+        align-items: flex-start;
+    }
 }
-@media (max-width:320px){
-    .footer {
-        flex-direction: column;
-        margin-top: 64px;
-        margin-left: 16px;
- }
-}
- 
