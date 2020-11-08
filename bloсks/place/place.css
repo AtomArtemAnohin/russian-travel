@@ -34,15 +34,15 @@
     .place {
       margin-left: 38px;
       margin-right: 38px;
-  grid-template-columns: fit-content(auto) fit-content(auto);
+    grid-template-columns: fit-content(auto) fit-content(auto);
   }
   }
   @media (max-width:768px){
     .place {
-  margin-left: 24px;
-  margin-right: 24px;
-  gap: 28px;
-  grid-template-columns: fit-content(340px) fit-content(352px);
+    margin-left: 24px;
+    margin-right: 24px;
+    gap: 28px;
+    grid-template-columns: fit-content(340px) fit-content(352px);
   }
   }
   @media (max-width:555px){
@@ -58,7 +58,5 @@
     .place {
       margin-left: 0px;
       margin-right: 0px;
-
-
   }
   }

@@ -1,12 +1,10 @@
 .footer__links {
-
     display: flex;
     list-style-type: none;
     padding-left: 0px;
 }
 @media (max-width:670px){
     .footer__links {
-
  }
 }
 @media (max-width:486px){
